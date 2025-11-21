@@ -8,16 +8,16 @@ redirect_from:
 ---
 {% include base_path %}
 
-[PDF]([url](https://drive.google.com/file/d/1pov1RFx21fDCD1-JPPXFUNtKZPXVjjhD/view?usp=sharing))
+[PDF]([url](https://drive.google.com/file/d/1r8MThcXuhTR2sJg9F6nkZ4SVdf-4ZUzC/view?usp=sharing))
 
 Education
 ======
-* M.S in Computer Engineering, AAiT, 2025 (expected)
+* M.S in Computer Engineering, Addis Ababa University.
 * B.S. in Electrical and Computer Engineering, JiT.
 
 Work experience
 ======
-* September 2024: Platform Developer and Admin
+* September 2024(present): Platform Developer and Admin
   * Hybrid Designs plc
   * Duties includes: Develop and automate companys system
     
