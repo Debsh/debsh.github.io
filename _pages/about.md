@@ -11,7 +11,7 @@ and [Hellina.H](https://hhnigatu.github.io/).
 
 My research interests broadly lie in Artificial Intelligence (AI), Machine Learning (ML), and Natural Language Processing (NLP), with a particular focus on developing machine translation (MT) systems for Ethiopian local languages. I am especially interested in creating NLP tools that are usable and accessible for low-resourced languages. 
 
-In my free time, I enjoy indulging in my love for📖 and explore art🎨. Reading books allows me to expand my horizons and gain new perspectives on the world. I find great fulfillment in losing myself in the written word, as it enables me to explore diverse ideas and narratives.
+In my free time, I cultivate a deep appreciation for literature📖 and the arts🎨. Engaging with books allows meto expand my horizons and gain new perspectives on the world. I find great fulfillment in losing myself in the written word, as it enables me to explore diverse ideas and narratives.
 
 News
 
