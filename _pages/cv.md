@@ -25,7 +25,7 @@ Work experience
   * Hybrid Designs plc
   * Duties includes: Develop and automate companys system
 
-* September 2024: Platform Developer and Admin
+* April 2024: Platform Developer and Admin
   * Hybrid Designs plc
   * Duties includes: Develop and automate companys system
     
