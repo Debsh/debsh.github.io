@@ -17,7 +17,15 @@ Education
 
 Work experience
 ======
-* September 2024(present): Platform Developer and Admin
+* November 2025: Performance Monitoring and Web Developer Coordinator
+  * Hybrid Designs plc
+  * Duties includes: Develop and automate companys system
+
+* October 2024: Performance Monitoring and Evaluation Coordinator
+  * Hybrid Designs plc
+  * Duties includes: Develop and automate companys system
+
+* September 2024: Platform Developer and Admin
   * Hybrid Designs plc
   * Duties includes: Develop and automate companys system
     
