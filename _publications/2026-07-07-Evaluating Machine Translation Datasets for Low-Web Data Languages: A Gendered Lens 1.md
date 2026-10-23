@@ -1,5 +1,5 @@
 ---
-# title: "Evaluating Machine Translation Datasets for Low-Web Data Languages: A Gendered Lens Number 1"
+# title: "Evaluating Machine Translation Datasets for Low-Web Data Languages: A Gendered Lens 1"
 # collection: publications
 # category: manuscripts
 # permalink: /publication/2026-07-07-Evaluating Machine Translation Datasets for Low-Web Data Languages: A Gendered Lens-1
